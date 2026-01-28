@@ -12,7 +12,8 @@ This project implements **JWT authentication**, **email verification**, and **pa
 
 ## Screenshots
 
-![App Screenshot](Auth-frontend\src\assets\auth.png)
+![App Screenshot](Auth-frontend/src/assets/auth.png)
+
 
 
 
