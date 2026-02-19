@@ -45,7 +45,6 @@ This project implements **JWT authentication**, **email verification**, and **pa
 - JSON Web Tokens (JWT)
 - Nodemailer
 - bcryptjs
-- dotenv
 - cookie-parser
 
 ---
